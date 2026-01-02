@@ -1,8 +1,19 @@
-Customer Segmentation using K-Means
+# Customer Segmentation using K-Means Clustering
 
-This project is a basic implementation of customer segmentation
-using K-Means clustering on a Kaggle dataset.
+This project demonstrates a basic implementation of **K-Means clustering**
+to segment customers based on their purchasing behavior.
 
-Goal:
-To group customers based on Annual Income and Spending Score.
+The dataset is taken from Kaggle (Mall Customers dataset).
 
+---
+
+## 📊 Problem Statement
+The goal of this project is to group customers into different clusters
+based on:
+- Annual Income
+- Spending Score
+
+This helps in understanding customer behavior and identifying
+different types of customers.
+
+---
