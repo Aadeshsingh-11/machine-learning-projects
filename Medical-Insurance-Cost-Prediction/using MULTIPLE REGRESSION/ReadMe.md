@@ -7,6 +7,6 @@ Dataset:
 Kaggle – Medical Insurance Dataset
 
 Models Used:
-- Linear Regression
+- Multiple Regression
 
 
