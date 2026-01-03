@@ -7,7 +7,7 @@ Dataset:
 Kaggle – Medical Insurance Dataset
 
 Models Used:
-- Polynomial Regression
+- Decision Tree
 
 📈 Result
 
