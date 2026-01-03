@@ -12,12 +12,14 @@ Features: age, sex, BMI, children, smoker status, region
 Problem Type: Regression
 
 ## 🧠 Models Compared & Results
-Model	R² Score (approx.)	Remarks
-Multiple Linear Regression	~0.70	Strong baseline, mostly linear data
-Polynomial Regression (deg=2)	~0.70	No significant improvement
-Support Vector Regression (SVR)	~0.17	Underperformed, not suitable
-Decision Tree Regressor	~0.68	Captured non-linearity, unstable
-Random Forest Regressor	~0.86	Best performance, well-generalized
+
+| Model                          | R² Score (approx.) | Remarks                              |
+|--------------------------------|-------------------|--------------------------------------|
+| Multiple Linear Regression     | ~0.70             | Strong baseline, mostly linear data  |
+| Polynomial Regression (deg=2)  | ~0.70             | No significant improvement           |
+| Support Vector Regression (SVR)| ~0.17             | Underperformed, not suitable         |
+| Decision Tree Regressor        | ~0.68             | Captured non-linearity, unstable     |
+| **Random Forest Regressor**    | **~0.86**         | Best performance, well-generalized   |
 
 ## Final model ranking (For this Dataset)
 
